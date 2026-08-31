@@ -24,7 +24,13 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "celeste-camacho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/156730112?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -1224,7 +1230,7 @@
       ]
     },
     "created_at": "2026-08-31T03:53:37.741Z",
-    "updated_at": "2026-08-31T04:54:59.687Z",
+    "updated_at": "2026-08-31T21:23:33.875Z",
     "generate_pages_site": true
   },
   "annotations": {},
