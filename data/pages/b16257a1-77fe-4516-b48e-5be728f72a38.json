@@ -7,12 +7,29 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/celeste-camacho/Gleyzer-images/main/guarda_gleyzer.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2026-08-31T03:53:37.767Z",
   "created_by": "MauAg1985",
   "title": "Gleyzer: Latin American Left Imaginaries and Human-Machine Controversy",
-  "updated_at": "2026-09-01T06:33:58.771Z",
+  "updated_at": "2026-09-01T06:34:43.173Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
