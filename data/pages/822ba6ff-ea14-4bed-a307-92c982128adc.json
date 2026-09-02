@@ -35,11 +35,12 @@
   "created_by": "MauAg1985",
   "title": "Nota sobre Cuba (1969)",
   "slug": "nota-sobre-cuba-1969",
-  "updated_at": "2026-09-01T12:34:29.129Z",
+  "updated_at": "2026-09-02T03:11:18.025Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "94195f47-1e59-4fcc-af33-351c628dae9c"
-  }
+  },
+  "parent": "b16257a1-77fe-4516-b48e-5be728f72a38"
 }
