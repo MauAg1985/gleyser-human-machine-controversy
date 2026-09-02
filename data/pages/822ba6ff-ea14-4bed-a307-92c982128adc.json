@@ -23,10 +23,35 @@
       ]
     },
     {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "A Report on Cuba (1969)",
+          "bold": true
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Ten years after the triumph of the revolution, Gleyzer arrives on the island as a correspondent for an Argentine television channel, and shoots a series of scenes and interviews addressing the social, cultural, and labor transformations underway. The structure of the film is organized around a recurring opposition between a \"before\" and an \"after\" the Revolution: the interviewees contrast their previous experiences of exploitation, poverty, and inequality with their subsequent living and working conditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The interviews do not merely document these changes; they construct a narrative in which work acquires new meanings. Voluntary labor, education, and participation in production are presented as practices tied to collective benefit and to the building of the revolutionary future. Work—even cultural work—must be placed at the service of the revolutionary cause. Gleyzer himself does not adopt an equidistant stance: his questions are aimed at underscoring the hope the interviewees place in the process, and at suggesting that this experience should be replicated elsewhere. Through his questions, the journalistic apparatus organizes these experiences within a narrative of transformation, while the workers' answers turn individual experiences into testimonies of a collective process. The material thus allows us to observe how revolutionary discourse articulates personal experiences, labor relations, and political projects through a narrative structure grounded in the transformation from past to present."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     }
@@ -35,8 +60,8 @@
   "created_by": "MauAg1985",
   "title": "Nota sobre Cuba (1969)",
   "slug": "nota-sobre-cuba-1969",
-  "updated_at": "2026-09-02T03:11:18.025Z",
-  "updated_by": "celeste-camacho",
+  "updated_at": "2026-09-02T03:40:06.989Z",
+  "updated_by": "MauAg1985",
   "autogenerate": {
     "enabled": false,
     "type": "event",
