@@ -29,6 +29,23 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Gleyzer: Latin American Left Imaginaries and Human-Machine Controversy",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Through an exploration of the work of Raymundo Gleyzer (1941–disappeared in 1976), I became interested in understanding the words and images that appear in his films and that articulate the worldview of an entire generation of the Latin American Left. Gleyzer was an Argentine filmmaker committed to struggles against injustice across the region, and his work emerged from a broader political movement and cosmology that, from the perspective of the present, acquires different meanings, particularly when it is re-mediated through contemporary technologies such as digital platforms, social media, and, more specifically for this project, large language models. His films can be understood as products of the historical momentum of the Latin American Left of the 1960s and 1970s, carrying with them a political vocabulary, a set of values, and ways of imagining social transformation that are historically situated. Through a practice of close listening to Gleyzer’s documentaries alongside AI-assisted annotation, I engaged in an iterative process in which a large language model generated themes and tags throughout the films, which I then discussed, questioned, corrected, rejected, replaced, or reinscribed. These moments of tension became particularly significant: they revealed not only moments in which the model’s contemporary moral and cultural assumptions shaped its interpretation of Gleyzer’s political discourse, but also moments in which it struggled to recognize or interpret the historical context of what was being said and shown. At the same time, the process did not always require eliminating the machine’s interpretation; sometimes its reading opened new possibilities for analysis, while in other cases it required correction or the re-inscription of meanings that had been overlooked or transformed by the model. It is within these exchanges, rather than in the AI output alone, that I locate the human-machine controversy: a space in which historical political imaginaries encounter contemporary machine-mediated interpretations and in which meaning is continuously negotiated between human and machine."
         }
       ]
@@ -37,7 +54,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": ""
         }
       ]
     },
@@ -45,7 +62,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Raymundo Gleyser"
+          "text": "Director's background",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -61,7 +87,24 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Corpus"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Corpus",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -77,7 +120,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": ""
         }
       ]
     },
@@ -85,7 +128,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Human-Machine Controversy"
+          "text": "Human-Machine Controversy",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -101,6 +153,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "I call the moments in which these interpretations come into tension Human-Machine Controversy (HMC). These controversies are documented through six tags that describe different forms of interaction between the machine’s interpretation and the scholar’s intervention: HMC Rejection marks cases in which an AI suggestion is directly discarded because it is not considered representative of the material; HMC Replacement marks cases in which a suggestion is replaced with a more accurate or historically appropriate interpretation; HMC Suspicious identifies suggestions that raise doubts but are provisionally retained because they may contain an insightful or productive reading; HMC Discussion marks an exchange in which further questioning and clarification make it possible to understand why the model produced a particular interpretation; HMC Reinscription identifies cases in which historically marginalized, overlooked, or erased subjects, processes, or meanings need to be incorporated into the annotation; and HMC Training marks moments in which the model lacks the information or context necessary to interpret or annotate something appropriately and requires additional guidance so that it can produce better interpretations in similar cases. Together, these tags make visible the different ways in which human interpretation does not simply supervise AI output, but actively contests, redirects, expands, and reshapes it."
         }
       ]
@@ -109,7 +169,25 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "What the Machine Sees: AI Interpretation of Militant Political Discourse",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": ""
         }
       ]
     },
@@ -125,62 +203,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "This question is approached through a glotopolitical perspective, understood here as an attention to the ways in which language, political categories, and their meanings are shaped by specific historical and ideological contexts. Words such as pueblo, revolución, imperialismo, explotación, compañero, burguesía, trabajo voluntario, liberación, lucha, capitalismo, and comunismo do not carry fixed meanings outside the political worlds in which they are produced and circulated. By bringing this historically situated vocabulary into contact with a contemporary language model, the project explores what happens when these terms are interpreted within a different semantic, moral, and cultural environment. The interaction between Gleyzer’s political language and the model’s contemporary categorizations therefore becomes a site for observing how political imaginaries are translated, displaced, normalized, contested, or rendered unfamiliar across time."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "What the Machine Sees: AI Interpretation of Militant Political DiscourseGlotopolitics: Political Vocabulary Across Time"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "The project asks how a contemporary large language model interprets political discourses produced within the historical context of Latin American militant cinema. Through AI-assisted annotation, I examine the themes, actors, relationships, and categories that the model identifies in Gleyzer’s films, as well as the generalizations, omissions, and transformations that emerge in the process. I am particularly interested in the vocabulary the model uses to describe political practices and social relations that were articulated within the Left of the 1960s and 1970s, and in the moments when historical meanings are translated into contemporary categories. The purpose is not to determine whether the model produces a correct or incorrect reading, but to examine what its interpretation reveals about the assumptions and frameworks through which a contemporary AI system encounters historically situated political discourse."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "This question is approached through a glotopolitical perspective, understood here as an attention to the ways in which language, political categories, and their meanings are shaped by specific historical and ideological contexts. Words such as pueblo, revolución, imperialismo, explotación, compañero, burguesía, trabajo voluntario, liberación, lucha, capitalismo, and comunismo do not carry fixed meanings outside the political worlds in which they are produced and circulated. By bringing this historically situated vocabulary into contact with a contemporary language model, the project explores what happens when these terms are interpreted within a different semantic, moral, and cultural environment. The interaction between Gleyzer’s political language and the model’s contemporary categorizations therefore becomes a site for observing how political imaginaries are translated, displaced, normalized, contested, or rendered unfamiliar across time."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -189,7 +211,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Glotopolitics: Political Vocabulary Across Time"
+          "text": "Glotopolitics: Political Vocabulary Across Time",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": ""
         }
       ]
     },
@@ -198,30 +230,6 @@
       "children": [
         {
           "text": "This question is approached through a glotopolitical perspective, understood here as an attention to the ways in which language, political categories, and their meanings are shaped by specific historical and ideological contexts. Words such as pueblo, revolución, imperialismo, explotación, compañero, burguesía, trabajo voluntario, liberación, lucha, capitalismo, and comunismo do not carry fixed meanings outside the political worlds in which they are produced and circulated. By bringing this historically situated vocabulary into contact with a contemporary language model, the project explores what happens when these terms are interpreted within a different semantic, moral, and cultural environment. The interaction between Gleyzer’s political language and the model’s contemporary categorizations therefore becomes a site for observing how political imaginaries are translated, displaced, normalized, contested, or rendered unfamiliar across time."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     }
@@ -229,7 +237,7 @@
   "created_at": "2026-08-31T03:53:37.767Z",
   "created_by": "MauAg1985",
   "title": "Gleyzer: Latin American Left Imaginaries and Human-Machine Controversy",
-  "updated_at": "2026-09-02T03:38:26.583Z",
+  "updated_at": "2026-09-02T05:26:12.362Z",
   "updated_by": "MauAg1985",
   "autogenerate": {
     "enabled": false,
